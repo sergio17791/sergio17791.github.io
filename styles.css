@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+}
+
+img {
+    border: 5px solid #fff;
+}
+
+h1, h2 {
+    color: #fff;
+}
+
+p {
+    color: #ccc;
+}
