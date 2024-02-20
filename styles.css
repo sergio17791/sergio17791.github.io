@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #171717;
+    background-color: #1a1a1a;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -23,6 +23,7 @@ img {
 
 h1, h2 {
     text-align: center;
+    font-family: 'Pacifico', cursive;
 }
 
 p {
@@ -44,6 +45,6 @@ p {
 
 .btn-outline-light:hover {
     background-color: #fff;
-    color: #171717;
+    color: #1a1a1a;
     transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
